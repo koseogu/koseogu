@@ -18,5 +18,8 @@ Map and data visualization designer. Earth scientist (PhD, ITU Istanbul).
 <a href="https://oguzhankose.com/work/fifty-years-of-urbanization-in-turkiye/"><img src="img/day09.jpg" width="19%" alt="Day 9: Fifty Years of Urbanization in Türkiye" title="Day 9: Fifty Years of Urbanization in Türkiye"></a>
 <a href="https://oguzhankose.com/work/four-laps-of-an-enduro-loop/"><img src="img/day10.jpg" width="19%" alt="Day 10: Four Laps of a 5 km Enduro Loop" title="Day 10: Four Laps of a 5 km Enduro Loop"></a>
 </p>
+<p>
+<a href="https://oguzhankose.com/work/ai-is-the-new-black/"><img src="img/day12.jpg" width="19%" alt="Day 12: AI Is the New Black" title="Day 12: AI Is the New Black"></a>
+</p>
 
 <sub>All maps and the stories behind them: [oguzhankose.com](https://oguzhankose.com) · [X](https://x.com/kuzeyokumaps) · [Instagram](https://www.instagram.com/kuzeyoku/)</sub>
