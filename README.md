@@ -19,6 +19,7 @@ Map and data visualization designer. Earth scientist (PhD, ITU Istanbul).
 <a href="https://oguzhankose.com/work/four-laps-of-an-enduro-loop/"><img src="img/day10.jpg" width="19%" alt="Day 10: Four Laps of a 5 km Enduro Loop" title="Day 10: Four Laps of a 5 km Enduro Loop"></a>
 </p>
 <p>
+<a href="https://oguzhankose.com/work/a-call-faster-than-sound/"><img src="img/day11.jpg" width="19%" alt="Day 11: A Call Faster Than Sound" title="Day 11: A Call Faster Than Sound"></a>
 <a href="https://oguzhankose.com/work/ai-is-the-new-black/"><img src="img/day12.jpg" width="19%" alt="Day 12: AI Is the New Black" title="Day 12: AI Is the New Black"></a>
 </p>
 
