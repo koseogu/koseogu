@@ -21,6 +21,7 @@ Map and data visualization designer. Earth scientist (PhD, ITU Istanbul).
 <p>
 <a href="https://oguzhankose.com/work/a-call-faster-than-sound/"><img src="img/day11.jpg" width="19%" alt="Day 11: A Call Faster Than Sound" title="Day 11: A Call Faster Than Sound"></a>
 <a href="https://oguzhankose.com/work/ai-is-the-new-black/"><img src="img/day12.jpg" width="19%" alt="Day 12: AI Is the New Black" title="Day 12: AI Is the New Black"></a>
+<a href="https://oguzhankose.com/work/the-lynx-follows/"><img src="img/day13.jpg" width="19%" alt="Day 13: The Lynx Follows" title="Day 13: The Lynx Follows"></a>
 </p>
 
 <sub>All maps and the stories behind them: [oguzhankose.com](https://oguzhankose.com) · [X](https://x.com/kuzeyokumaps) · [Instagram](https://www.instagram.com/kuzeyoku/)</sub>
