@@ -23,7 +23,9 @@ Map and data visualization designer. Earth scientist (PhD, ITU Istanbul).
 <a href="https://oguzhankose.com/work/ai-is-the-new-black/"><img src="img/day12.jpg" width="19%" alt="Day 12: AI Is the New Black" title="Day 12: AI Is the New Black"></a>
 <a href="https://oguzhankose.com/work/the-lynx-follows/"><img src="img/day13.jpg" width="19%" alt="Day 13: The Lynx Follows" title="Day 13: The Lynx Follows"></a>
 <a href="https://oguzhankose.com/work/the-pine-empire/"><img src="img/day14.jpg" width="19%" alt="Day 14: The Pine Empire" title="Day 14: The Pine Empire"></a>
-<a href="https://oguzhankose.com/work/lamps-below-the-oceans-last-light/"><img src="img/day17.jpg" width="19%" alt="Day 17: Lamps Below the Ocean's Last Light" title="Day 17: Lamps Below the Ocean's Last Light"></a>
+<a href="https://oguzhankose.com/work/lamps-below-the-oceans-last-light/"><img src="img/day17.jpg" width="19%" alt="Day 17: Lamps Below the Ocean's Last Light" title="Day 17: Lamps Below the Ocean's Last Light"></a></p>
+<p>
+<a href="https://oguzhankose.com/work/meteorites-lat-lon-null/"><img src="img/day18.jpg" width="19%" alt="Day 18: Meteorites: lat, lon = NULL" title="Day 18: Meteorites: lat, lon = NULL"></a>
 </p>
 
 <sub>All maps and the stories behind them: [oguzhankose.com](https://oguzhankose.com) · [X](https://x.com/kuzeyokumaps) · [Instagram](https://www.instagram.com/kuzeyoku/)</sub>
