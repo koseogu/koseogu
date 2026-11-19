@@ -26,6 +26,7 @@ Map and data visualization designer. Earth scientist (PhD, ITU Istanbul).
 <a href="https://oguzhankose.com/work/lamps-below-the-oceans-last-light/"><img src="img/day17.jpg" width="19%" alt="Day 17: Lamps Below the Ocean's Last Light" title="Day 17: Lamps Below the Ocean's Last Light"></a></p>
 <p>
 <a href="https://oguzhankose.com/work/meteorites-lat-lon-null/"><img src="img/day18.jpg" width="19%" alt="Day 18: Meteorites: lat, lon = NULL" title="Day 18: Meteorites: lat, lon = NULL"></a>
+<a href="https://oguzhankose.com/work/too-high-to-smell/"><img src="img/day19.jpg" width="19%" alt="Day 19: Too high to smell" title="Day 19: Too high to smell"></a>
 </p>
 
 <sub>All maps and the stories behind them: [oguzhankose.com](https://oguzhankose.com) · [X](https://x.com/kuzeyokumaps) · [Instagram](https://www.instagram.com/kuzeyoku/)</sub>
