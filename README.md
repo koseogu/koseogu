@@ -29,6 +29,7 @@ Map and data visualization designer. Earth scientist (PhD, ITU Istanbul).
 <a href="https://oguzhankose.com/work/too-high-to-smell/"><img src="img/day19.jpg" width="19%" alt="Day 19: Too high to smell" title="Day 19: Too high to smell"></a>
 <a href="https://oguzhankose.com/work/istanbul-rainfall-october-2026/"><img src="img/day20.jpg" width="19%" alt="Day 20: Rainfall over Istanbul, 13-15 October 2026" title="Day 20: Rainfall over Istanbul, 13-15 October 2026"></a>
 <a href="https://oguzhankose.com/work/broadway-at-3-am/"><img src="img/day21.jpg" width="19%" alt="Day 21: Broadway at 3 a.m." title="Day 21: Broadway at 3 a.m."></a>
+<a href="https://oguzhankose.com/work/the-world-from-150-east/"><img src="img/day22.jpg" width="19%" alt="Day 22: The World from 150°E" title="Day 22: The World from 150°E"></a>
 </p>
 
 <sub>All maps and the stories behind them: [oguzhankose.com](https://oguzhankose.com) · [X](https://x.com/kuzeyokumaps) · [Instagram](https://www.instagram.com/kuzeyoku/)</sub>
