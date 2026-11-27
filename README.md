@@ -31,6 +31,7 @@ Map and data visualization designer. Earth scientist (PhD, ITU Istanbul).
 <a href="https://oguzhankose.com/work/broadway-at-3-am/"><img src="img/day21.jpg" width="19%" alt="Day 21: Broadway at 3 a.m." title="Day 21: Broadway at 3 a.m."></a>
 <a href="https://oguzhankose.com/work/the-world-from-150-east/"><img src="img/day22.jpg" width="19%" alt="Day 22: The World from 150°E" title="Day 22: The World from 150°E"></a>
 <a href="https://oguzhankose.com/work/ukraines-grain-corridor/"><img src="img/day24.jpg" width="19%" alt="Day 24: Ukraine's Grain Corridor" title="Day 24: Ukraine's Grain Corridor"></a>
+<a href="https://oguzhankose.com/work/ukraines-grain-corridor-animated/"><img src="img/day27.jpg" width="19%" alt="Day 27: Ukraine's Grain Corridor, Animated" title="Day 27: Ukraine's Grain Corridor, Animated"></a>
 </p>
 
 <sub>All maps and the stories behind them: [oguzhankose.com](https://oguzhankose.com) · [X](https://x.com/kuzeyokumaps) · [Instagram](https://www.instagram.com/kuzeyoku/)</sub>
